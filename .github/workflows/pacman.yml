@@ -1,11 +1,9 @@
-name: Generate pacman animation
+name: Generate Pacman Contribution Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"  # dijalankan setiap 12 jam
-
+  schedule:
+    - cron: "0 */12 * * *"  # Setiap 12 jam
   workflow_dispatch:
-
   push:
     branches:
       - main
@@ -20,6 +18,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Create output folder
+        run: mkdir -p output
 
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
