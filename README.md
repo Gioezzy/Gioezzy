@@ -13,6 +13,12 @@
 ###
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/Gioezzy/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
@@ -46,8 +52,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gioezzy/Gioezzy/output/pacman-contribution-graph-dark.svg">
