@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Setiap 12 jam
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
@@ -27,6 +26,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           output_path: ./output/pacman-contribution-graph.svg
+
+      - name: List output contents
+        run: ls -la output
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
