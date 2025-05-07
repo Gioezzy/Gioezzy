@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Giovanni Yuda Prastika</h1>
-
-###
-
-<h3 align="center">I'm learning about front end and back end developers</h3>
-
-###
-
 <div align="center">
-  <img height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1ZmJ2MXA5d24xYmhhODlhMDl6dDJheWY1M2o2bGFkZHF3MWhkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/erLqg6qhlfgW4rIjlp/giphy.gif"  />
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42Zm5td3F4MG1qc2Y1bm5rZ2QxaGVkdTZsMHQzZmloajBuc2xlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zAHefXCsRQM8RKb1oy/giphy.gif"  />
 </div>
 
+### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" /> &nbsp; Hello, I'm Gio! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
+Welcome to my GitHub profile! I'm learning about front end and back end developers.
+
 ###
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Gioezzy/count.svg?"  />
@@ -18,17 +15,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,laravel,php,mysql,autocad,sketchup" />
+  </a>
+</p>
 
 ###
 
@@ -45,14 +36,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gioezzy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gioezzy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gioezzy/Gioezzy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gioezzy/Gioezzy/output/pacman-contribution-graph.svg">
@@ -64,8 +48,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Gioezzy/Gioezzy/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
 <div align="center">
   <a href="https://open.spotify.com/user/31pseojvzdwengrwb2djcixttjcm">
