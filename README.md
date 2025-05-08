@@ -54,6 +54,10 @@ Welcome to my GitHub profile! I'm learning about front end and back end develope
   <a href="https://open.spotify.com/user/31pseojvzdwengrwb2djcixttjcm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pseojvzdwengrwb2djcixttjcm&count=5&unique=true" alt="Spotify recently played"  />
   </a>
+  <img width="12" />
+  <a href="https://app.daily.dev/gioezzy">
+    <img src="https://api.daily.dev/devcards/v2/oNB9dBVRvVaNvrfIv1miK.png?type=default&r=nvl" width="235" alt="910's Dev Card"/>
+  </a>
 </div>
 
 ###
