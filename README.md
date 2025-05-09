@@ -1,3 +1,11 @@
+##
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
+
 <div align="center">
   <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42Zm5td3F4MG1qc2Y1bm5rZ2QxaGVkdTZsMHQzZmloajBuc2xlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zAHefXCsRQM8RKb1oy/giphy.gif"  />
 </div>
@@ -59,5 +67,37 @@ Welcome to my GitHub profile! I'm learning about front end and back end develope
     <img src="https://api.daily.dev/devcards/v2/oNB9dBVRvVaNvrfIv1miK.png?type=default&r=nvl" width="235" alt="910's Dev Card"/>
   </a>
 </div>
+
+###
+
+<a href="https://github.com/Gioezzy/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://Gioezzy.pythonanywhere.com?theme=light&spin=true&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://Gioezzy.pythonanywhere.com?theme=dark&spin=true&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song">
+  </picture>
+</a>
+
+###
+
+<div>
+  <img
+    width="100%"
+    alt="Gradients"
+    src="Images/Miscellaneous/Gradients.svg"
+  />
+</div>
+
+<img
+  width="100%"
+  alt="Rainbow"
+  src="Images/Miscellaneous/Rainbow.gif"
+/>
 
 ###
