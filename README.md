@@ -69,20 +69,21 @@ Welcome to my GitHub profile! I'm learning about front end and back end develope
 </div>
 
 ###
-
-<a href="https://github.com/Gioezzy/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://Gioezzy.pythonanywhere.com?theme=light&spin=true&scan=true&eq_color=rainbow"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://Gioezzy.pythonanywhere.com?theme=dark&spin=true&scan=true&eq_color=rainbow"
-    />
-    <img alt="Current Spotify Song">
-  </picture>
-</a>
+<div align="center">
+  <a href="https://github.com/Gioezzy/Spotify-Readme">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://Gioezzy.pythonanywhere.com?theme=light&spin=true&scan=true&eq_color=rainbow"
+      />
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://Gioezzy.pythonanywhere.com?theme=dark&spin=true&scan=true&eq_color=rainbow"
+      />
+      <img alt="Current Spotify Song">
+    </picture>
+  </a>
+</div>
 
 ###
 
