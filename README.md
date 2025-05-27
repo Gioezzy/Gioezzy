@@ -7,7 +7,7 @@
 />
 
 <div align="center">
-  <img height="350" src="../Gioezzy/Images/Miscellaneous/anime-oshi-no-ko.gif"  />
+  <img height="350" src="../Gioezzy/Images/Miscellaneous/anime.gif"  />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Hello, I'm Gio! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
