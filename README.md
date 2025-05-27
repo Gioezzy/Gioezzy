@@ -7,7 +7,7 @@
 />
 
 <div align="center">
-  <img height="350" src="../Gioezzy/Images/Miscellaneous/anime.gif"  />
+  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh4cndjN2RueGg2ejN3MGZqY2RiODJyem5pYmNteG45NW5pMGN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gi0ThiTXBGJ8s58XCI/giphy.gif"  />
 </div>
 
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Hello, I'm Gio! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
