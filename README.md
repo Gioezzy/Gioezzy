@@ -1,96 +1,64 @@
-##
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Giovanni%20Yuda&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  
+  <br>
 
-<img
-  width="100%"
-  alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
-/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Next-Gen+Apps;React+%7C+Flutter+%7C+Supabase" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
-  <img height="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh4cndjN2RueGg2ejN3MGZqY2RiODJyem5pYmNteG45NW5pMGN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gi0ThiTXBGJ8s58XCI/giphy.gif"  />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px" /> &nbsp; Hello, I'm Gio! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25px" />
-Welcome to my GitHub profile! I'm learning about front end and back end developers.
-
-###
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-
-###
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,laravel,php,mysql,autocad,sketchup" />
-  </a>
-</p>
-
-###
+<br>
 
 <div align="center">
-  <a href="https://www.instagram.com/giovanni_yuda/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/gioezzy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/giovanni.yuda.3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gioezzy&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&icon_color=8A2BE2&title_color=8A2BE2&text_color=fff&count_private=true&include_all_commits=true" width="85%" alt="Gioezzy Dashboard" />
 </div>
 
-###
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<br>
 
-###
+## 💡 Overview
 
-<br clear="both">
+I am a Developer passionate about the **Modern Web & Mobile Ecosystem**.
+Currently shifting my focus to **React, Next.js, and Flutter** to build cross-platform applications with high scalability.
 
-<img src="https://raw.githubusercontent.com/Gioezzy/Gioezzy/output/snake.svg" alt="Snake animation" />
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<br>
+
+## 📊 Analytics
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31pseojvzdwengrwb2djcixttjcm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pseojvzdwengrwb2djcixttjcm&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-  <img width="12" />
-  <a href="https://app.daily.dev/gioezzy">
-    <img src="https://api.daily.dev/devcards/v2/oNB9dBVRvVaNvrfIv1miK.png?type=default&r=nvl" width="235" alt="910's Dev Card"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gioezzy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gioezzy&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="150" />
 </div>
 
-###
+<br>
+
+## 🤝 Connect
+
 <div align="center">
-  <a href="https://github.com/Gioezzy/Spotify-Readme">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://Gioezzy.pythonanywhere.com?theme=light&spin=true&scan=true&eq_color=rainbow"
-      />
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://Gioezzy.pythonanywhere.com?theme=dark&spin=true&scan=true&eq_color=rainbow"
-      />
-      <img alt="Current Spotify Song">
-    </picture>
+  <a href="https://linkedin.com/in/giovanni-yuda">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/giovanni_yuda">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:giovanni.yuda.3@facebook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-###
+<br>
 
-<div>
-  <img
-    width="100%"
-    alt="Gradients"
-    src="Images/Miscellaneous/Gradients.svg"
-  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"/>
 </div>
-
-<img
-  width="100%"
-  alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
-/>
-
-###
