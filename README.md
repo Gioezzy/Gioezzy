@@ -46,13 +46,13 @@ Currently shifting my focus to **React, Next.js, and Flutter** to build cross-pl
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/giovanni-yuda">
+  <a href="https://www.linkedin.com/in/giovanniyuda/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/giovanni_yuda">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:giovanni.yuda.3@facebook.com">
+  <a href="mailto:giovanniyuda29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
