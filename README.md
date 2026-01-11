@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Giovanni%20Yuda&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=180&section=header&text=Giovanni%20Yuda&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Next-Gen+Apps;React+%7C+Flutter+%7C+Supabase" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Next-Gen+Apps;React+%7C+Flutter+%7C+Supabase" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gioezzy&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&icon_color=8A2BE2&title_color=8A2BE2&text_color=fff&count_private=true&include_all_commits=true" width="85%" alt="Gioezzy Dashboard" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gioezzy&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00B4D8&title_color=00B4D8&text_color=ffffff&count_private=true&include_all_commits=true" width="85%" alt="Gioezzy Dashboard" />
 </div>
 
 <br>
@@ -37,8 +37,8 @@ Currently shifting my focus to **React, Next.js, and Flutter** to build cross-pl
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gioezzy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=fff" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gioezzy&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gioezzy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gioezzy&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" height="150" />
 </div>
 
 <br>
@@ -60,5 +60,5 @@ Currently shifting my focus to **React, Next.js, and Flutter** to build cross-pl
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=100&section=footer" width="100%"/>
 </div>
